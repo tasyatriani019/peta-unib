@@ -32,7 +32,7 @@ Struktur Repository:
 - Analisis.pdf : Analisis dan pembahasan sistem.
 
 Pengembang:
-Tasya Triani
+Tasya Triani (G1A024019)
 
 Program Studi Informatika
 Fakultas Teknik Universitas Bengkulu
