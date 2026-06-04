@@ -29,7 +29,7 @@ Contoh Hasil Pencarian:
 Struktur Repository:
 - Source Code : Kode program website.
 - Laporan Tugas Akhir AI.pdf : Laporan lengkap proyek.
-- Analisis.pdf : Analisis dan pembahasan sistem.
+- Analisis Sistem.pdf : Analisis dan pembahasan sistem.
 
 Pengembang:
 Tasya Triani (G1A024019)
