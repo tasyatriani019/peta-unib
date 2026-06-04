@@ -28,7 +28,7 @@ Contoh Hasil Pencarian:
 
 Struktur Repository:
 - Source Code : Kode program website.
-- Laporan.pdf : Laporan lengkap proyek.
+- Laporan Tugas Akhir AI.pdf : Laporan lengkap proyek.
 - Analisis.pdf : Analisis dan pembahasan sistem.
 
 Pengembang:
