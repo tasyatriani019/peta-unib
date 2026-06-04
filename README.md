@@ -1,6 +1,6 @@
 UNIB Router Finder
 
-Deskripsi Proyek
+Deskripsi Proyek:
 UNIB Router Finder merupakan website navigasi kampus berbasis peta interaktif yang dikembangkan untuk membantu pengguna menemukan jalur terpendek antar lokasi di lingkungan Universitas Bengkulu.
 Sistem ini menerapkan algoritma Dijkstra untuk menghitung rute terpendek berdasarkan data graph yang terdiri dari node (titik lokasi) dan edge (jalur penghubung). Hasil perhitungan ditampilkan secara visual pada peta interaktif beserta informasi jalur dan total jarak yang ditempuh.
 
